@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\LetItSnowApp\\LetItSnowApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\LetItSnowAPI\\LetItSnowAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
